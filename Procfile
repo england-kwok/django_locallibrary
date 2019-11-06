@@ -1,0 +1,1 @@
+web: gunicorn locllibrary.wsgi --log-file -
